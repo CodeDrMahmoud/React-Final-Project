@@ -1,0 +1,29 @@
+.header {
+    background-color: #fff;
+    color: #000000;
+    padding: 20px;
+  }
+  
+  .header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    height: 50px;
+    margin-left: 95px;
+  }
+
+  .navigation  {
+   margin-right: 95px;
+  }
+  
+  .navigation a {
+    color: #000;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+ 
+ 
